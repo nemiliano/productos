@@ -1,91 +1,93 @@
-body{
-    background-color: #273238; 
+body {
+  background-color: #273238;
 }
 
-h1{
-    background-color: #FFFFFF;
-    color: #698593;
-    font-family: Impact, sans-serif;
-    font-weight: bold;
-    font-size: 90px;
-    text-align: center;
+h1 {
+  background-color: #ffffff;
+  color: #698593;
+  font-family: Impact, sans-serif;
+  font-weight: bold;
+  font-size: 90px;
+  text-align: center;
 }
 
-h2{
-    font-family:  'Arial';
-    font-variant: small-caps;
-    font-size: 40px; 
-    transform: skewX(-20deg);
-    font-weight: 900;
+h2 {
+  font-family: "Arial";
+  font-variant: small-caps;
+  font-size: 40px;
+  transform: skewX(-20deg);
+  font-weight: 900;
 }
 
-p{
-    font-family: 'Lucida Sans Unicode';
-    color: #BBC1C9;
-    font-size: 20.5px;
-    text-align: justify;
-    font-weight: lighter;
-    line-height: 30px;
+p {
+  font-family: "Lucida Sans Unicode";
+  color: #bbc1c9;
+  font-size: 20.5px;
+  text-align: justify;
+  font-weight: lighter;
+  line-height: 30px;
 }
 
-#aspiradoras{
-    color: #E6CBBF; 
+#aspiradoras {
+  color: #e6cbbf;
 }
 
-#celulares{
-    color: #A1C1CB;
+#celulares {
+  color: #a1c1cb;
 }
 
-#consolas{
-    color: #BCBDBF;
+#consolas {
+  color: #bcbdbf;
 }
 
-#home-theaters{
-    color: #8D94A1;
+#home-theaters {
+  color: #8d94a1;
 }
 
-#tv{
-    color: #AFAFA7;
+#tv {
+  color: #afafa7;
 }
 
-[class^="contenedor-imagen"] img{
-    margin-left: 80px;
-    width: 650px;
-    height: auto;
+[class^="contenedor-imagen"] img {
+  margin-left: 80px;
+  width: 650px;
+  height: auto;
 }
 
-.contenedor-imagen-aspiradoras img{
-    border: 5px solid #E6CBBF;
+.contenedor-imagen-aspiradoras img {
+  border: 5px solid #e6cbbf;
 }
 
-.contenedor-imagen-celulares img{
-    border: 5px solid #A1C1CB;
+.contenedor-imagen-celulares img {
+  border: 5px solid #a1c1cb;
 }
 
-.contenedor-imagen-consolas img{
-    border: 5px solid #BCBDBF;
+.contenedor-imagen-consolas img {
+  border: 5px solid #bcbdbf;
 }
 
-.contenedor-imagen-home-theaters img{
-    border: 5px solid #8D94A1;
+.contenedor-imagen-home-theaters img {
+  border: 5px solid #8d94a1;
 }
 
-.contenedor-imagen-tv img{
-    border: 5px solid #AFAFA7;
+.contenedor-imagen-tv img {
+  border: 5px solid #afafa7;
 }
 
-#img-aspiradoras, #img-home, #img-tv{
-    padding-top: 1px;
-    padding-left: 1px;
+#img-aspiradoras,
+#img-home,
+#img-tv {
+  padding-top: 1px;
+  padding-left: 1px;
 }
 
-#img-celulares{
-    padding-bottom: 0.5px;
-    padding-left: 1px;
+#img-celulares {
+  padding-bottom: 0.5px;
+  padding-left: 1px;
 }
 
-#img-consolas{
-    padding-top: 1px;
-    padding-bottom: 0.5px;
-    padding-left: 1px;
+#img-consolas {
+  padding-top: 1px;
+  padding-bottom: 0.5px;
+  padding-left: 1px;
 }
